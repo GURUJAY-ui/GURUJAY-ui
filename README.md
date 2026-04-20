@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hey, I'm John 👋
 
-<!--
-**GURUJAY-ui/GURUJAY-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer building platforms where tech meets real impact — telecom, healthcare, and community.
 
-Here are some ideas to get you started:
+Based in **Abuja, Nigeria 🇳🇬** · Working across the full stack daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔨 What I'm building
+
+| Project | What it does | Stack |
+|---|---|---|
+| [NyscTelemed](https://github.com) | Telemedicine platform for NYSC corps members | .NET 10, PostgreSQL, SignalR, Africa's Talking |
+| [DataControl](https://github.com) | Telecom analytics & network monitoring dashboard | TypeScript, Vite, React, Monorepo |
+| [PCN First Abuja](https://firstabujapresbyterian.org) | Parish website with YouTube sync & admin panel | React, Express, Neon, Vercel |
+| Multi-Disease Health AI | Disease prediction with Random Forest | Python, Scikit-learn, Streamlit |
+
+---
+
+#### 🧰 Stack
+
+```
+Languages   TypeScript · C# · Python · Kotlin
+Frontend    React · React Native · Tailwind CSS · Vite
+Backend     ASP.NET Core · Express · EF Core · SignalR
+Data        PostgreSQL · Redis · Neon
+Tools       Git · PowerShell · VS Code · Swagger
+```
+
+---
+
+#### 🌍 What drives me
+
+Emerging-market tech. I care about building software that actually works for people
+in Nigeria — real connectivity, real healthcare access, real community tools.
+
+---
+
+*Open to interesting problems. Open to collaboration.*
