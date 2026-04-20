@@ -10,8 +10,8 @@ Based in **Abuja, Nigeria 🇳🇬** · Working across the full stack daily.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [NyscTelemed](https://github.com/NyscTelemed) | Telemedicine platform for NYSC corps members | .NET 10, PostgreSQL, SignalR, Africa's Talking |
-| [DataControl](https://github.com/DataControl) | Telecom analytics & network monitoring dashboard | TypeScript, Vite, React, Monorepo |
+| [NyscTelemed](https://github.com/GURUJAY-ui/NyscTelemed) | Telemedicine platform for NYSC corps members | .NET 10, PostgreSQL, SignalR, Africa's Talking |
+| [DataControl](https://github.com/GURUJAY-ui/datacontrol) | Telecom analytics & network monitoring dashboard | TypeScript, Vite, React, Monorepo |
 | [PCN First Abuja](https://firstabujapresbyterian.org) | Parish website with YouTube sync & admin panel | React, Express, Neon, Vercel |
 | Multi-Disease Health AI | Disease prediction with Random Forest | Python, Scikit-learn, Streamlit |
 
